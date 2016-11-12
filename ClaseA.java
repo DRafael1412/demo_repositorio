@@ -9,4 +9,8 @@ public class Clase A{
   codigo = "";
   }
   
+  public void mensaje() {
+	  System.out.println("hola mundo");
+  }
+  
  }
